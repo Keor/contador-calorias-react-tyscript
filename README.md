@@ -12,3 +12,8 @@ recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
 Pagina en deploy vía Netlify (https://contador-calorias-react-typescript.netlify.app)
+
+
+Uso de Hook, useReducer, useState, useEffect y useMemo
+
+Tailwind CSS como hoja de estilo.
